@@ -1,9 +1,9 @@
 # Vuln-Scan
-vulnerability Scan Using tkinter
+Vulnerability Scan Using tkinter
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/YT-Download" height="60%" width="100%" src="Screenshot_20210411-143355998.jpg"/>
+     <img alt="AsukaDev-Official/Vuln-Scan" height="60%" width="100%" src="Screenshot_20210412-145427201.jpg"/>
   </a>
 </p>
 
